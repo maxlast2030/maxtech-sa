@@ -1,0 +1,4 @@
+[submodule "maxlast2030/test11"]
+	path = maxlast2030/test11
+	url = git@github.com:maxlast2030/test11.git
+	branch = master
