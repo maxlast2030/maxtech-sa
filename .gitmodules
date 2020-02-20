@@ -2,3 +2,8 @@
 	path = maxlast2030/test11
 	url = git@github.com:maxlast2030/test11.git
 	branch = master
+
+[submodule "maxlast2030/submodel"]
+	path = maxlast2030/submodel
+	url = git@github.com:maxlast2030/test11.git
+	branch = master
